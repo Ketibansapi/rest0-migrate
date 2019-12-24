@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Ketibansapi/rest0-migrate/issues"
   },
-  "homepage": "https://github.com/Ketibansapi/rest0-migrate#readme"
+  "homepage": "https://github.com/Ketibansapi/rest0-migrate#readme",
+  "devDependencies": {
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
+  }
 }
