@@ -1,0 +1,20 @@
+{
+  "name": "reactdjango",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ketibansapi/rest0-migrate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ketibansapi/rest0-migrate/issues"
+  },
+  "homepage": "https://github.com/Ketibansapi/rest0-migrate#readme"
+}
